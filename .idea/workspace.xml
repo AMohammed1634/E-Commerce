@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ccf8ce3-c7c9-444c-8cbc-1ab987edb72c" name="Default Changelist" comment="" />
+    <list default="true" id="5ccf8ce3-c7c9-444c-8cbc-1ab987edb72c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,6 +174,8 @@
       <workItem from="1587420196917" duration="4993000" />
       <workItem from="1587590176681" duration="8546000" />
       <workItem from="1587638408464" duration="6442000" />
+      <workItem from="1587718467380" duration="2447000" />
+      <workItem from="1587721752235" duration="702000" />
     </task>
     <servers />
   </component>
@@ -191,10 +195,10 @@
       <screen x="0" y="27" width="1366" height="717" />
     </state>
     <state x="479" y="290" width="399" height="151" key="NewPhpFileDialog/0.27.1366.717@0.27.1366.717" timestamp="1587597306684" />
-    <state x="343" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1587718467367">
+    <state x="343" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1587731797692">
       <screen x="0" y="27" width="1366" height="717" />
     </state>
-    <state x="343" y="193" key="com.intellij.ide.util.TipDialog/0.27.1366.717@0.27.1366.717" timestamp="1587718467367" />
+    <state x="343" y="193" key="com.intellij.ide.util.TipDialog/0.27.1366.717@0.27.1366.717" timestamp="1587731797692" />
     <state x="0" y="27" width="703" height="717" key="find.popup" timestamp="1586475662773">
       <screen x="0" y="27" width="1366" height="717" />
     </state>
